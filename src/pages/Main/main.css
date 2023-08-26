@@ -1,0 +1,15 @@
+
+.form-container {
+  padding: 20px;
+  border-right: 1px solid #ccc;
+}
+
+.info-container {
+  padding: 20px;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}
